@@ -1,5 +1,5 @@
                          --------------------------------
-                                    Vosao CMS. 
+                                    Vosao CMS. Fork !!
                          Simple CMS for Google App Engine
                          --------------------------------
            
